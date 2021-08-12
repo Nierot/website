@@ -1,0 +1,39 @@
+:root {
+    --bg: #41B3A3;
+    --primary: #E27D60;
+    --secondary: #85DCB0;
+    --tertiary: #E8A87C;
+    --quaternary: #C38D9E;
+}
+
+
+html {
+    width: 100vw;
+    height: 100vh;
+    /* color: white; */
+    background-color: var(--bg);
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat';
+}
+
+p, div, span {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+button, input[type="submit"], input[type="reset"] {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: var(--secondary)
+}

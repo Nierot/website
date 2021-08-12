@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Shelter our Students",
+        "github": "https://github.com/Nierot/ShelterOurStudents",
+        "logo": "/pics/ShelterOurStudents.svg",
+        "link": "https://sosgroningen.nl/",
+        "description": "Shelter our Students is een initiatief van ROOD Groningen die zich inzet tegen de Groningse woningcrisis.",
+        "technologies": "ReactJS, TailwindCSS, GitHub pages",
+        "mobileOnly": true
+    },
+    {
+        "name": "Kokopelli",
+        "github": "https://github.com/KokopelliMusic",
+        "link": "https://kokopelli.nierot.com/",
+        "description": "Muziek speler met gezamelijke afspeellijsten en spelletjes tussendoor. Speelt YouTube, Spotify en mp3 af.",
+        "technologies": "Ionic, Capacitor, ReactJS, CSS3/TailwindCSS, Firebase, Docker",
+        "picture": "/pics/kokopelli.png"
+    },
+    {
+        "name": "32 Seconds",
+        "github": "https://github.com/Nierot/32-seconds",
+        "link": "https://games.nierot.com/",
+        "description": "Webversie van het spel 30 seconds",
+        "technologies": "ExpressJS, EJS, Docker, HTML5, CSS3"
+    },
+    {
+        "name": "Share",
+        "github": "https://github.com/Nierot/file_share",
+        "link": "https://share.nierot.com/",
+        "description": "Bestanden deel service die bestanden 24 uur bewaard.",
+        "technologies": "ExpressJS, Pug, Docker, HTML5, CSS3"
+    },
+    {
+        "name": "Spotify Stats",
+        "github": "https://github.com/Nierot/Spotify",
+        "link": "https://spotify.nierot.com/",
+        "description": "Haalt je favoriete muziek op vanaf de Spotify API en laat het mooi zien.",
+        "technologies": "Django, SQLite, Python, HTML5, CSS3"
+    }
+    
+]
