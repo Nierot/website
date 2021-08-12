@@ -14,7 +14,7 @@
 </script>
 
 <main>
-	<h1>Niels Rotmensen</h1>
+	<h1>Nierot</h1>
 	<h2>ik maak websites ofzo</h2>
 
 	<button on:click={click}>
